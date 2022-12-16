@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Franklin Playground
+Testing Repository for project franklin onboarding
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--Franklin-Playground--dzehnder.hlx.page/
+- Live: https://main--Franklin-Playground--dzehnder.hlx.live/
 
 ## Installation
 
